@@ -20,12 +20,6 @@ Start the server
   npm run start
 ```
 
-## Authors
-
-- [@Naveen Singh](https://github.com/iamnaveensingh)
-- [@Vikas Singh](https://github.com/vikassingh8)
-- [@Naresh Kumhar](https://github.com/nareshkumhar619)
-
 
 ## Tech Stack
 - React js( React Router ),
